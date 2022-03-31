@@ -82,6 +82,7 @@ Verify the memory and swap file after reboot
 ```
 free -m
 ```
+![image](https://user-images.githubusercontent.com/52450051/161080375-60948366-fe1f-48c5-8ff8-bdafcab85b5e.png)
 
 
 
