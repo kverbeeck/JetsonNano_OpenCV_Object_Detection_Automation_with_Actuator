@@ -274,5 +274,6 @@ If no object (cat) is detected, the counter should be "0" and the LED should be 
 Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
 
 ![IMG_2045](https://user-images.githubusercontent.com/52450051/161127342-92226a04-9911-4c97-91f2-0ba30cce6b06.jpg)
-![IMG_2046](https://user-images.githubusercontent.com/52450051/161127362-391f93f8-4b89-4d27-8f55-326e07d5d94f.jpg)
 ![IMG_2047](https://user-images.githubusercontent.com/52450051/161127371-72dfba76-73d1-49fe-b442-b7d3496154f5.jpg)
+![IMG_2046](https://user-images.githubusercontent.com/52450051/161127362-391f93f8-4b89-4d27-8f55-326e07d5d94f.jpg)
+
