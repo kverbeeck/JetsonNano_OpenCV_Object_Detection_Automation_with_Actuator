@@ -247,6 +247,29 @@ Note*: You can play with the Trackbars to optimize the tracking for your environ
 
 ![image](https://user-images.githubusercontent.com/52450051/161122927-52be7b4f-5b91-4531-a79f-3e3a281805d7.png)
 
+## Extra 3: Display the number of objects (cats) and light an LED if at least one object is detected
+
+The goal is to display in the upper left corner of the screen how many objects are detected and enable an LED if objects (cat) are detected and disable the LED if no objects are detected.
+
+### Open the "Object_detection_automation_with_Actuator_and_Counter.py file and adapt where needed
+
+The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional).
+
+### Run the script
+
+Point the camera at an object and run the script. Note*: press "q" on your keyboard to exit the program.
+
+If an object (cat) is detected, it should display the number of objects detected and enable the LED.
+
+Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
+
+
+
+If no object (cat) is detected, the counter should be "0" and the LED should be disabled.
+
+Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
+
+
 
 
 
