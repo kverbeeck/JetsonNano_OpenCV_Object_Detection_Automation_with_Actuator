@@ -66,6 +66,13 @@ df -h
 ```
 ![image](https://user-images.githubusercontent.com/52450051/161078160-ad614ce3-d4ca-424d-a77d-75660c05cab7.png)
 
+run jtop and verify the following settings
+```
+sudo jtop
+```
+
+
+
 
 
 
