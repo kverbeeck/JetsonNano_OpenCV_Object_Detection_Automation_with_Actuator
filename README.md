@@ -204,13 +204,16 @@ The only thing you will need to change is the "path" to the cascade file and the
 
 Point the camera at an object and run the script. Note*: press "q" on your keyboard to exit the program.
 
-If an object (cat) is detected, it will look something like this >>
+If an object (cat) is detected, the LED should be on.
 
-![image](https://user-images.githubusercontent.com/52450051/161107720-c904c6f8-7211-4a2b-9778-d7c1049a4791.png)
+![IMG_2042](https://user-images.githubusercontent.com/52450051/161116038-4d809d71-29ce-4eeb-8a79-5a98754ea5f8.jpg)
+![IMG_2043](https://user-images.githubusercontent.com/52450051/161116077-81dbae17-4050-4af7-b04f-f2c48b434c3e.jpg)
 
-If no object (cat) is detected, it will look something like this >>
+If no object (cat) is detected, the LED should be off.
 
-![image](https://user-images.githubusercontent.com/52450051/161108140-8965225c-cfaf-4e00-9ceb-43a7b173d5e0.png)
+![IMG_2041](https://user-images.githubusercontent.com/52450051/161115882-c41184a1-ce63-4e06-837a-5b3f48871ed3.jpg)
+![IMG_2044](https://user-images.githubusercontent.com/52450051/161115966-8d60106f-7ae1-4c25-b995-dc5835dfcd8a.jpg)
+
 
 
 
