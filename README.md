@@ -26,7 +26,7 @@ We've seen how to learn an object and then detect it, so now we're going to use 
 ![IMG_2037](https://user-images.githubusercontent.com/52450051/161069978-d029efba-f224-4253-acb8-a239335d0024.jpg)
 
 * Fast Micro SD Card, 64GB UHS-1 or higher recommended.
-* Power supply and a jumper for power selection, see following links for details >> https://desertbot.io/blog/jetson-nano-power-supply-barrel-vs-micro-usb
+* Power supply and a jumper (J48) for power selection, see following links for details >> https://desertbot.io/blog/jetson-nano-power-supply-barrel-vs-micro-usb
 
 ![image](https://user-images.githubusercontent.com/52450051/161082332-7b3e4d69-b637-4c7e-9a8d-a4e22b8cd814.png)
 
