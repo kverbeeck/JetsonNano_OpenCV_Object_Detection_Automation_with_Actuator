@@ -55,5 +55,18 @@ Patition >> Resize/Move >> select the partition
 
 ![image](https://user-images.githubusercontent.com/52450051/161077274-abd1427e-257b-4063-b8de-37350e38b0d0.png)
 
+Reboot the device
+```
+sudo reboot
+```
+
+Verify your partition size
+```
+df -h
+```
+
+
+
+
 
 
