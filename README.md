@@ -150,9 +150,14 @@ All needed Python scripts can be found in this repository, adapt where needed. A
 
 ### Open Pycharm and create a new virtual environment
 
-Make sure to 
+Create a new project, give it a name. Make sure to select "New environment using Virtualenv" and "Inherit global site-packages" (containing all needed python libraries). 
 
 ![image](https://user-images.githubusercontent.com/52450051/161104869-e730783f-85a4-4032-bb36-f4f04918cd23.png)
+
+### Add the folder containing the python scripts and Cascade file to the project
+
+
+
 
 
 
