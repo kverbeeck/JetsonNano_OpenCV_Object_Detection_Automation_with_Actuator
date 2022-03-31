@@ -46,6 +46,11 @@ The advantage is that this image has several pre-installed frameworks which we w
 * JTOP 3.1.1
 * TeamViewer aarch64 15.24.5
 
+### Expand your image using GPARTED when using SD cards larger than 32GB
+
+'''
+sudo apt-get install gparted
+'''
 
 
 
