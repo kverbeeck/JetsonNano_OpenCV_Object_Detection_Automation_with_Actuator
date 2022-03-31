@@ -22,6 +22,8 @@ We've seen how to learn an object and then detect it, so now we're going to use 
 * ICE TOWER for cooling (recommended), see following link for more details >> https://www.jetsonhacks.com/2019/11/30/jetson-nano-extreme-cooling/
 ![IMG_2037](https://user-images.githubusercontent.com/52450051/161069978-d029efba-f224-4253-acb8-a239335d0024.jpg)
 * Fast Micro SD Card, 64GB UHS-1 or higher recommended.
+* Power supply and a jumper for power selection, see following links for details >> https://desertbot.io/blog/jetson-nano-power-supply-barrel-vs-micro-usb
+![image](https://user-images.githubusercontent.com/52450051/161082332-7b3e4d69-b637-4c7e-9a8d-a4e22b8cd814.png)
 * Keyboard, mouse and monitor, it is also possible to controll the Jetson Nano headless using SSH and/or VNC Viewer.
 * Raspberry Pi cam, see following link for cam specifications >> https://www.raspberrypi.com/documentation/accessories/camera.html
 ![IMG_2036](https://user-images.githubusercontent.com/52450051/161068150-056b9ff8-3616-4d9b-a935-5e1c08d1273e.jpg)
@@ -77,12 +79,14 @@ sudo jtop
 
 Follow the instructions in this link, i did not erase the swap afterwards >>> https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
 
-Verify the memory and swap file after reboot 
+Verify the memory and swap file after reboot.
 
 ```
 free -m
 ```
 ![image](https://user-images.githubusercontent.com/52450051/161080375-60948366-fe1f-48c5-8ff8-bdafcab85b5e.png)
+
+
 
 
 
