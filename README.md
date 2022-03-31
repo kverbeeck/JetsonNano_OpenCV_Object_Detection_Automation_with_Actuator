@@ -166,18 +166,29 @@ The only thing you will need to change is the "path" to the cascade file and the
 
 ### Run the script
 
-Point the camera at an object and run the script.
+Point the camera at an object and run the script. Note*: press "q" on your keyboard to exit the program.
 
-If an object (cat) is detected, it will look something like this >>>
+If an object (cat) is detected, it will look something like this >>
 
 ![image](https://user-images.githubusercontent.com/52450051/161107720-c904c6f8-7211-4a2b-9778-d7c1049a4791.png)
 
-If no object (cat) is detected, it will look something like this >>>
+If no object (cat) is detected, it will look something like this >>
 
 ![image](https://user-images.githubusercontent.com/52450051/161108140-8965225c-cfaf-4e00-9ceb-43a7b173d5e0.png)
 
+## Extra 1: light an LED if an object is detected
 
+The goal is to enable an LED if an object (cat) is detected and disable the LED if no object is detected.
 
+### Set-up the hardware
+
+![IMG_2040](https://user-images.githubusercontent.com/52450051/161109204-6156b848-b453-40df-abbe-9413e996db83.jpg)
+
+For this to work, we need ofcourse connect an LED to the GPIO pins of the Jetson Nano, but there is a CAVEAT. The GPIO control pins do not provide enough current to power the LED, so we need a workaround. We need to use a transistor to regulate the current flowing to the LED and powering it. Follow the tutorial on this page to make this work >> https://www.jetsonhacks.com/2019/06/07/jetson-nano-gpio/
+
+The Jetson Nano GPIO pinout
+
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/52450051/161110486-33e868d0-0e4e-4c73-97c8-cc2fa946880f.png">
 
 
 
