@@ -156,6 +156,12 @@ Create a new project, give it a name. Make sure to select "New environment using
 
 ### Add the folder containing the python scripts and Cascade file to the project
 
+Put this folder in you "Home" Directory under "Jetson" - "PycharmProjects" - "Your Project Name" - "venv", it will then show up in your project.
+
+### Open the "Object_detection_automation.py file and adapt where needed
+
+The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional).
+
 
 
 
