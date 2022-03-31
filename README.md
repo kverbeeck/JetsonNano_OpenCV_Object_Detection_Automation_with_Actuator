@@ -162,6 +162,8 @@ Put this folder in you "Home" Directory under "Jetson" - "PycharmProjects" - "Yo
 
 The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional).
 
+![image](https://user-images.githubusercontent.com/52450051/161107043-09e3cb04-93f1-448a-8a9f-e7e3d1d850b3.png)
+
 
 
 
