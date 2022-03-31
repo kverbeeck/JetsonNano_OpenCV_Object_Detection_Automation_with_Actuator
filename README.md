@@ -164,7 +164,15 @@ The only thing you will need to change is the "path" to the cascade file and the
 
 ![image](https://user-images.githubusercontent.com/52450051/161107043-09e3cb04-93f1-448a-8a9f-e7e3d1d850b3.png)
 
+### Run the script
 
+Point the camera at an object and run the script.
+
+If an object (cat) is detected, it will look something like this >>>
+
+
+
+If no object (cat) is detected, it will look something like this >>>
 
 
 
