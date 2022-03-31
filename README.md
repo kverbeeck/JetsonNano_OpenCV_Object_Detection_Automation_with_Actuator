@@ -103,6 +103,12 @@ This is a very good and reliable IDE with virtual environments (VENV) and auto-c
 
 
 
+![image](https://user-images.githubusercontent.com/52450051/161083622-463c2479-6efa-4c74-8922-e79ee6d09006.png)
+
+
+
+
+
 
 
 
