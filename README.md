@@ -190,7 +190,27 @@ The Jetson Nano GPIO pinout
 
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/52450051/161110486-33e868d0-0e4e-4c73-97c8-cc2fa946880f.png">
 
+### Schematics
 
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/52450051/161114451-a8c8f29b-9b06-41f1-bca0-3a867f8fd805.png">
+
+### Open the "Object_detection_automation_with_Actuator.py file and adapt where needed
+
+The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional). Make sure to connect the LED to GPIO port 11.
+
+![image](https://user-images.githubusercontent.com/52450051/161107043-09e3cb04-93f1-448a-8a9f-e7e3d1d850b3.png)
+
+### Run the script
+
+Point the camera at an object and run the script. Note*: press "q" on your keyboard to exit the program.
+
+If an object (cat) is detected, it will look something like this >>
+
+![image](https://user-images.githubusercontent.com/52450051/161107720-c904c6f8-7211-4a2b-9778-d7c1049a4791.png)
+
+If no object (cat) is detected, it will look something like this >>
+
+![image](https://user-images.githubusercontent.com/52450051/161108140-8965225c-cfaf-4e00-9ceb-43a7b173d5e0.png)
 
 
 
