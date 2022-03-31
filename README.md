@@ -66,12 +66,18 @@ df -h
 ```
 ![image](https://user-images.githubusercontent.com/52450051/161078160-ad614ce3-d4ca-424d-a77d-75660c05cab7.png)
 
-run jtop and verify the following settings
+### Run jtop and verify the following settings
 ```
 sudo jtop
 ```
 ![image](https://user-images.githubusercontent.com/52450051/161078796-2307c85f-ccdd-4e69-9c60-d77c46334f27.png)
 ![image](https://user-images.githubusercontent.com/52450051/161078905-cc516900-16ab-43bb-b6e0-86ede535b85b.png)
+
+### Enlarge the memory swap
+
+Follow the instructions in this link, i did not erase the swap afterwards >>> https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
+
+
 
 
 
