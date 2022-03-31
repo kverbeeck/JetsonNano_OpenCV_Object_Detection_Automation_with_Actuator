@@ -103,10 +103,10 @@ This is a very good and reliable IDE with virtual environments (VENV) and auto-c
 Follow the steps below for installation:
 
 ```
-free -m
+wget https://download.jetbrains.com/python/pycharm-community-2019.1.2.tar.gz
+tar xvzf pycharm-community-2019.1.2.tar.gz
+pycharm-community-2019.1.2/bin/pycharm.sh
 ```
-
-
 
 ![image](https://user-images.githubusercontent.com/52450051/161083622-463c2479-6efa-4c74-8922-e79ee6d09006.png)
 
