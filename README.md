@@ -238,12 +238,14 @@ If an object (cat) is detected, it should display the number of objects detected
 
 Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
 
-
+![image](https://user-images.githubusercontent.com/52450051/161123322-6e6da38d-a857-4b38-ad79-ad8d347736cd.png)
+![image](https://user-images.githubusercontent.com/52450051/161124899-c5a9703a-5c93-4280-aa15-9e0f2af718d0.png)
 
 If no object (cat) is detected, the counter should be "0"
 
 Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
 
+![image](https://user-images.githubusercontent.com/52450051/161122927-52be7b4f-5b91-4531-a79f-3e3a281805d7.png)
 
 
 
