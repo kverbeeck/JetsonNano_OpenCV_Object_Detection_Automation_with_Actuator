@@ -17,8 +17,13 @@ We've seen how to learn an object and then detect it, so now we're going to use 
 ![IMG_2034](https://user-images.githubusercontent.com/52450051/161063948-55903995-8caa-43b8-bb0d-7ac78a562a31.jpg)
 ![IMG_2035](https://user-images.githubusercontent.com/52450051/161064323-237b0921-bcdd-48ff-81ab-4ff9807fe3c2.jpg)
 
-* Jetson Nano 2GB or better, i strongly recommend to buy a 4GB version (Jetson Nano B01) as you will need all memory you can get for AI projects. I used the 2GB version (Jetson Nano 2 GByte).
+* Jetson Nano 2GB or better, i strongly recommend to buy a 4GB version (Jetson Nano B01) as you will need all memory you can get for AI projects. I used the 2GB version (Jetson Nano 2 GByte), more info can be found here >> https://developer.nvidia.com/embedded/jetson-developer-kits
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/52450051/161066329-18a368dc-d028-4153-a457-a76bf582badb.png">
+* ICE TOWER for cooling (recommended), see following link for more details >> https://www.jetsonhacks.com/2019/11/30/jetson-nano-extreme-cooling/
+![IMG_2037](https://user-images.githubusercontent.com/52450051/161069978-d029efba-f224-4253-acb8-a239335d0024.jpg)
+* Raspberry Pi cam, see following link for cam specifications >> https://www.raspberrypi.com/documentation/accessories/camera.html
+![IMG_2036](https://user-images.githubusercontent.com/52450051/161068150-056b9ff8-3616-4d9b-a935-5e1c08d1273e.jpg)
+* Fast Micro SD Card, 64GB UHS-1 or higher recommended.
 
 
 
