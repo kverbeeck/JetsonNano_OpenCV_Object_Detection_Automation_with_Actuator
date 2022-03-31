@@ -77,6 +77,12 @@ sudo jtop
 
 Follow the instructions in this link, i did not erase the swap afterwards >>> https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
 
+Verify the memory and swap file after reboot 
+
+```
+free -m
+```
+
 
 
 
