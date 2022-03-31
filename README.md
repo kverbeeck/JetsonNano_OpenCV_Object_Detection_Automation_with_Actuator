@@ -198,7 +198,7 @@ The Jetson Nano GPIO pinout
 
 The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional). Make sure to connect the LED to GPIO port 11.
 
-![image](https://user-images.githubusercontent.com/52450051/161107043-09e3cb04-93f1-448a-8a9f-e7e3d1d850b3.png)
+![image](https://user-images.githubusercontent.com/52450051/161115045-8ff90578-c73c-4c60-b4d5-6d8f37eed048.png)
 
 ### Run the script
 
