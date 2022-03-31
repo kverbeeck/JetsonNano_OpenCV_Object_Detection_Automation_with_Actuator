@@ -152,6 +152,7 @@ All needed Python scripts can be found in this repository, adapt where needed. A
 
 Make sure to 
 
+![image](https://user-images.githubusercontent.com/52450051/161104869-e730783f-85a4-4032-bb36-f4f04918cd23.png)
 
 
 
