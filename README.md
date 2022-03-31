@@ -21,13 +21,13 @@ We've seen how to learn an object and then detect it, so now we're going to use 
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/52450051/161066329-18a368dc-d028-4153-a457-a76bf582badb.png">
 * ICE TOWER for cooling (recommended), see following link for more details >> https://www.jetsonhacks.com/2019/11/30/jetson-nano-extreme-cooling/
 ![IMG_2037](https://user-images.githubusercontent.com/52450051/161069978-d029efba-f224-4253-acb8-a239335d0024.jpg)
+* Fast Micro SD Card, 64GB UHS-1 or higher recommended.
+* Keyboard, mouse and monitor, it is also possible to controll the Jetson Nano headless using SSH and/or VNC Viewer.
 * Raspberry Pi cam, see following link for cam specifications >> https://www.raspberrypi.com/documentation/accessories/camera.html
 ![IMG_2036](https://user-images.githubusercontent.com/52450051/161068150-056b9ff8-3616-4d9b-a935-5e1c08d1273e.jpg)
-* Fast Micro SD Card, 64GB UHS-1 or higher recommended.
-
-
-
-
+* Optional 3D printed stand for the Pi Cam, STL files are included in this repository.
+![IMG_2038](https://user-images.githubusercontent.com/52450051/161073550-af22b952-975f-4e33-b1fe-aea75fcc57dd.jpg)
+* 1 LED, 2 resistors, a transistor, a breadbord and some dupont-wires, more details later. 
 
 ## Setting up the Jetson Nano
 
@@ -45,6 +45,8 @@ The advantage is that this image has several pre-installed frameworks which we w
 * MNN 1.2.1
 * JTOP 3.1.1
 * TeamViewer aarch64 15.24.5
+
+
 
 
 
