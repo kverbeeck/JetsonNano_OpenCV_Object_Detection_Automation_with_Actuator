@@ -48,11 +48,9 @@ The advantage is that this image has several pre-installed frameworks which we w
 
 ### Expand your image using GPARTED when using SD cards larger than 32GB
 
-'''
+```
 sudo apt-get install gparted
-'''
-
-
+```
 
 
 
