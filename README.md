@@ -170,10 +170,11 @@ Point the camera at an object and run the script.
 
 If an object (cat) is detected, it will look something like this >>>
 
-
+![image](https://user-images.githubusercontent.com/52450051/161107720-c904c6f8-7211-4a2b-9778-d7c1049a4791.png)
 
 If no object (cat) is detected, it will look something like this >>>
 
+![image](https://user-images.githubusercontent.com/52450051/161108140-8965225c-cfaf-4e00-9ceb-43a7b173d5e0.png)
 
 
 
