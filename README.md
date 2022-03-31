@@ -263,23 +263,16 @@ If an object (cat) is detected, it should display the number of objects detected
 
 Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
 
-
+![IMG_2048](https://user-images.githubusercontent.com/52450051/161127209-709d873c-c0b5-4db3-bdc4-29deabac2435.jpg)
+![IMG_2049](https://user-images.githubusercontent.com/52450051/161127232-35091abd-ffe2-47e4-bb43-86cc1de533b6.jpg)
+![IMG_2050](https://user-images.githubusercontent.com/52450051/161127243-f5077862-991a-4185-a682-5f406b2be113.jpg)
+![IMG_2051](https://user-images.githubusercontent.com/52450051/161127250-6f45756b-ebbc-473f-9eff-e49da7279e9d.jpg)
+![IMG_2053](https://user-images.githubusercontent.com/52450051/161127260-5dccb930-e805-4645-b8d9-777e881f4621.jpg)
 
 If no object (cat) is detected, the counter should be "0" and the LED should be disabled.
 
 Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![IMG_2045](https://user-images.githubusercontent.com/52450051/161127342-92226a04-9911-4c97-91f2-0ba30cce6b06.jpg)
+![IMG_2046](https://user-images.githubusercontent.com/52450051/161127362-391f93f8-4b89-4d27-8f55-326e07d5d94f.jpg)
+![IMG_2047](https://user-images.githubusercontent.com/52450051/161127371-72dfba76-73d1-49fe-b442-b7d3496154f5.jpg)
