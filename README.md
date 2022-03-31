@@ -222,6 +222,30 @@ Note*: You can play with the Trackbars to optimize the tracking for your environ
 ![IMG_2041](https://user-images.githubusercontent.com/52450051/161115882-c41184a1-ce63-4e06-837a-5b3f48871ed3.jpg)
 ![IMG_2044](https://user-images.githubusercontent.com/52450051/161115966-8d60106f-7ae1-4c25-b995-dc5835dfcd8a.jpg)
 
+## Extra 2: Display the number of objects (cats) detected
+
+The goal is to display in the upper left corner of the screen how many objects are detected.
+
+### Open the "Object_detection_automation_with_Counter.py file and adapt where needed
+
+The only thing you will need to change is the "path" to the cascade file and the "Objectname", this is the text showing if an object was detected (optional).
+
+### Run the script
+
+Point the camera at an object and run the script. Note*: press "q" on your keyboard to exit the program.
+
+If an object (cat) is detected, it should display the number of objects detected.
+
+Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
+
+
+
+If no object (cat) is detected, the counter should be "0"
+
+Note*: You can play with the Trackbars to optimize the tracking for your environment !!!
+
+
+
 
 
 
