@@ -110,6 +110,10 @@ pycharm-community-2019.1.2/bin/pycharm.sh
 
 ![image](https://user-images.githubusercontent.com/52450051/161083622-463c2479-6efa-4c74-8922-e79ee6d09006.png)
 
+### Installing and testing the Pi Cam
+
+Follow the steps mentioned here >> https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
+
 ## Create the HAAR Cascade for AI training
 
 <img width="744" alt="image" src="https://user-images.githubusercontent.com/52450051/161088639-1400990f-ddd4-416c-bf66-07102bf443d1.png">
@@ -139,6 +143,14 @@ Pro Tips:
 ### Cascade example
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/52450051/161102872-af97dcff-93fc-427d-b4e2-58ff6de521cc.png">
+
+## Python Script 
+
+All needed Python scripts can be found in this repository, adapt where needed. All script should work with a PyCam. The only thing you need to change is the Cascade.xml file. I also uploaded my Cascade file for detecting cats in this repository.
+
+### Open Pycharm and create a new virtual environment
+
+Make sure to 
 
 
 
