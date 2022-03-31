@@ -12,4 +12,8 @@ We've seen how to learn an object and then detect it, so now we're going to use 
 * You add an object counter that displays in the upper left corner how many of these objects it observes.
 * When this object is observed you make sure that the raspberry pi (Jetson Nano) controls an actuator (led, relay, lcd, ...)
 
+## Solution
+
+![IMG_2034](https://user-images.githubusercontent.com/52450051/161063948-55903995-8caa-43b8-bb0d-7ac78a562a31.jpg)
+![IMG_2033](https://user-images.githubusercontent.com/52450051/161063978-fc6c6056-a84e-4df7-b719-c4e38bd7a307.jpg)
 
