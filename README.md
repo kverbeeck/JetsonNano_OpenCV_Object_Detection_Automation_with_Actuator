@@ -70,6 +70,8 @@ run jtop and verify the following settings
 ```
 sudo jtop
 ```
+![image](https://user-images.githubusercontent.com/52450051/161078796-2307c85f-ccdd-4e69-9c60-d77c46334f27.png)
+![image](https://user-images.githubusercontent.com/52450051/161078905-cc516900-16ab-43bb-b6e0-86ede535b85b.png)
 
 
 
