@@ -52,5 +52,7 @@ The advantage is that this image has several pre-installed frameworks which we w
 sudo apt-get install gparted
 ```
 
+![image](https://user-images.githubusercontent.com/52450051/161077274-abd1427e-257b-4063-b8de-37350e38b0d0.png)
+
 
 
